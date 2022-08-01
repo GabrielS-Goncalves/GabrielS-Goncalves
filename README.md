@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+    Hi! <img src="hi.gif" height="30px" width="30px" alt="GIF">, My name is Gabriel! 😉
+</h1>
+<p align="center">
+    <i>For many things we lost, we have to keep on living...</i>
+    <br>
+    <b>Kamato Tanjito - Kimetsu no Yaiba</b>
+</p>
+<br>
+<img align="right" width="400px" alt="GIF" src="Coding%20Work.gif">
 
-<!--
-**GabrielSombra2234/GabrielSombra2234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 Hello! My name is Gabriel. I'am student of Back-End Development.
 
-Here are some ideas to get you started:
+- 🖥️ In this moments, i'am working in some projects in Python <img width="17px" src="python.png">.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- You can find them at [Projetos-Python](https://github.com/GabrielSombra2234/Projetos-Python-3)<img width="17px" src="python.png">.
+
+- 🧑‍💻 More at [Gabriel-Gonçalves](https://linktr.ee/gabrgoncalves)
