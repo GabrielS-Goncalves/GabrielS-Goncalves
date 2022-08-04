@@ -13,6 +13,6 @@
 
 - 🖥️ In this moments, i'am working in some projects in Python <img width="17px" src="python.png">.
 
-- You can find them at [Projetos-Python](https://github.com/GabrielSombra2234/Projetos-Python-3) <img width="17px" src="python.png">.
+- You can find them at [Python-Projects](https://github.com/GabrielSombra2234/Python-Projects) <img width="17px" src="python.png">.
 
 - 🧑‍💻 More at [Gabriel-Gonçalves](https://linktr.ee/gabrgoncalves)
