@@ -8,7 +8,7 @@
 </p>
 <br>
 <img align="right" width="400px" alt="GIF" src="Coding-Work.gif">
-<div>
+<div align="left">
     <p>
         - 🧑‍💻 Hello! My name is Gabriel. I'am student of Back-End Development.
     </p>
