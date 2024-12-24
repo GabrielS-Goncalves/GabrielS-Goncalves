@@ -10,18 +10,10 @@
 <img align="right" width="400px" alt="GIF" src="Coding-Work.gif">
 <div align="left">
     <p>
-        - 🧑‍💻 Hello! My name is Gabriel. I'am student of Back-End Development.
+        Wellcome to my space. Today, i working as Network Analyst. 🧑‍💻
     </p>
     <p>
-        - 🖥️ In this moments, i'am working in some projects in Python <img width="17px" src="python.png">.
-    </p>
-    <p>
-        - You can find them at [Python-Projects](https://github.com/GabrielSombra2234/Python-Projects) <img width="17px" src="python.png">.
-    </p>
-    <p>
-        - And you can find my Front-End Projects at [Front-end-Portifolio](https://github.com/GabrielSombra2234/Front-end-Portfolio) <img width="25px" src="pc.png">
-    </p>
-    <p>
-        - 🧑‍💻 More at [Gabriel-Gonçalves](https://linktr.ee/gabrgoncalves)
+        And, i using my github space to document may knowledge.<br>
+        Please, feel free to read all information of you want.
     </p>
 </div>
