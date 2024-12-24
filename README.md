@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi! <img src="hi.gif" height="30px" width="30px" alt="GIF">, My name is Gabriel! 😉
+    Hello! I'm Gabriel! <img src="hi.gif" height="30px" width="30px" alt="GIF">😉
 </h1>
 <p align="center">
     <i>For many things we lost, we have to keep on living...</i>
