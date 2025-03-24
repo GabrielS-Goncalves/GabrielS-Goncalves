@@ -7,7 +7,7 @@
     <b>Kamato Tanjito - Kimetsu no Yaiba</b>
 </p>
 <br>
-<img align="right" width="400px" alt="GIF" src="Coding-Work.gif">
+<img align="right" width="400px" alt="GIF" src="Assets/Coding-Work.gif">
 <div align="left">
     <p>
         Wellcome to my space. Today, i working as Network Analyst. 🧑‍💻
