@@ -13,7 +13,7 @@
         Wellcome to my space. Today, I working as Network Analyst. 🧑‍💻
     </p>
     <p>
-        I using my github space to document may knowledge.<br>
+        I using my github space to document my knowledge.<br>
         Please, feel free to read all information of you want.
     </p>
 </div>
