@@ -4,7 +4,7 @@
 <p align="center">
     <i>For many things we lost, we have to keep on living...</i>
     <br>
-    <b>Kamato Tanjito - Kimetsu no Yaiba</b>
+    <b>Kamado Tanjiro - Kimetsu no Yaiba</b>
 </p>
 <br>
 <img align="right" width="400px" alt="GIF" src="Assets/Coding-Work.gif">
