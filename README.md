@@ -10,7 +10,7 @@
 <img align="right" width="400px" alt="GIF" src="Assets/Coding-Work.gif">
 <div align="left">
     <p>
-        Wellcome to my space. Today, I working as Network Analyst. 🧑‍💻
+        Welcome to my space. Today, I working as Infrastructure Especialist. 🧑‍💻
     </p>
     <p>
         I using my github space to document my knowledge.<br>
